@@ -1,0 +1,22 @@
+{
+    "name": "riazxrazor/slybroadcast",
+    "type": "library",
+    "license": "GPL-3",
+    "authors": [
+        {
+            "name": "Riaz Laskar",
+            "email": "riazcool77@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^8.1",
+        "guzzlehttp/guzzle": "^7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Riazxrazor\\Slybroadcast\\": "src"
+        }
+    },
+    "minimum-stability": "dev"
+}
